@@ -6,5 +6,3 @@ To enhance JavaScript and DOM skills and also to learn more about Skeleton CSS b
 
 ## Website Link
 https://muntasir2001.github.io/number-guesser/
-
-<h1> Testing </h1>
